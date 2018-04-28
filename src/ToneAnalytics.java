@@ -1,5 +1,6 @@
 
 
+
 // This demo shows tone analyzer
 
 // https://www.ibm.com/developerworks/library/cc-sample-code-tone-analyzer-watson-java/index.html
@@ -100,4 +101,5 @@ public class ToneAnalytics {
 //  			System.out.println(result[i][0] +" = " + result[i][1]);
 //  	}
   }
+
 }
